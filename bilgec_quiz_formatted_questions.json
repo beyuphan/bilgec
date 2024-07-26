@@ -1,0 +1,884 @@
+{
+    "questions": [
+        {
+            "text": "Çanakkale Savaşı sırasında 215 kg’lık mermiyi tek başına kaldıran Türk kahramanı kimdir?",
+            "options": [
+                {
+                    "text": "Kazım Karabekir",
+                    "correct": false
+                },
+                {
+                    "text": "Seyit Onbaşı",
+                    "correct": true
+                },
+                {
+                    "text": "Fevzi Çakmak",
+                    "correct": false
+                },
+                {
+                    "text": "Enver Paşa",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Sık ormanlı bir bölgede yön bulmak için hangi yöntem kullanılmaz?",
+            "options": [
+                {
+                    "text": "Karınca Yuvası",
+                    "correct": false
+                },
+                {
+                    "text": "Yosun Yöntemi",
+                    "correct": false
+                },
+                {
+                    "text": "Ay",
+                    "correct": true
+                },
+                {
+                    "text": "Pusula",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Periyodik tablonun 10. elementi olan Ne sembollü elementin özel adı nedir?",
+            "options": [
+                {
+                    "text": "Neon",
+                    "correct": true
+                },
+                {
+                    "text": "Nikel",
+                    "correct": false
+                },
+                {
+                    "text": "Sodyum",
+                    "correct": false
+                },
+                {
+                    "text": "Azot",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Sofra tuzu olarak bilinen bileşiğin formülü aşağıdakilerden hangisidir?",
+            "options": [
+                {
+                    "text": "H2O",
+                    "correct": false
+                },
+                {
+                    "text": "CH4",
+                    "correct": false
+                },
+                {
+                    "text": "NaCl",
+                    "correct": true
+                },
+                {
+                    "text": "NaHCO3",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Başkenti Zagreb olan Avrupa ülkesi aşağıdakilerden hangisidir?",
+            "options": [
+                {
+                    "text": "Polonya",
+                    "correct": false
+                },
+                {
+                    "text": "Hırvatistan",
+                    "correct": true
+                },
+                {
+                    "text": "Arnavutluk",
+                    "correct": false
+                },
+                {
+                    "text": "Yunanistan",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Bayrağında kırmızı ve beyaz rengini içermeyen ülke hangisidir?",
+            "options": [
+                {
+                    "text": "Türkiye",
+                    "correct": false
+                },
+                {
+                    "text": "Gürcistan",
+                    "correct": false
+                },
+                {
+                    "text": "Kanada",
+                    "correct": false
+                },
+                {
+                    "text": "Almanya",
+                    "correct": true
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Aşağıdakilerden hangi hayvan kuluçkaya yatar?",
+            "options": [
+                {
+                    "text": "Arı",
+                    "correct": false
+                },
+                {
+                    "text": "Tavuk",
+                    "correct": true
+                },
+                {
+                    "text": "Deniz Anası",
+                    "correct": false
+                },
+                {
+                    "text": "Tarantula",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hangisi 'bıkmak' anlamına gelir?",
+            "options": [
+                {
+                    "text": "Hizaya gelmek",
+                    "correct": false
+                },
+                {
+                    "text": "Kıvamına gelmek",
+                    "correct": false
+                },
+                {
+                    "text": "Gına gelmek",
+                    "correct": true
+                },
+                {
+                    "text": "Yola gelmek",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Hasbihal, ne demektir?",
+            "options": [
+                {
+                    "text": "Gürültü",
+                    "correct": false
+                },
+                {
+                    "text": "Geçmiş",
+                    "correct": false
+                },
+                {
+                    "text": "Sohbet",
+                    "correct": true
+                },
+                {
+                    "text": "Özlem",
+                    "correct": false
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "Şehir içi toplu ulaşım araçlarında rastlanabilen ve 'orta ve arka kapıları kullanınız' şeklinde biten uyarı yazısının başı nasıldır?",
+            "options": [
+                {
+                    "text": "Sökmek için",
+                    "correct": false
+                },
+                {
+                    "text": "Çalmak için",
+                    "correct": false
+                },
+                {
+                    "text": "Binmek için",
+                    "correct": false
+                },
+                {
+                    "text": "İnmek için",
+                    "correct": true
+                }
+            ],
+            "stage": 1
+        },
+        {
+            "text": "2022'de gerçekleşen FİFA Word Cup futbol etkiliğinde finale katılmaya hak kazanan iki takım aşağıdakilerden hangisidir?",
+            "options": [
+                {
+                    "text": "Arjantin-İngiltere",
+                    "correct": false
+                },
+                {
+                    "text": "Fransa-Arjantin",
+                    "correct": true
+                },
+                {
+                    "text": "Fransa-Brezilya",
+                    "correct": false
+                },
+                {
+                    "text": "Fransa-Almanya",
+                    "correct": false
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "1389-1403 tarihleri arasında padişahlık yapmış Yıldırım lakabıyla tanınan padişahımız kimdir?",
+            "options": [
+                {
+                    "text": "Sultan Süleyman",
+                    "correct": false
+                },
+                {
+                    "text": "Osman Bey",
+                    "correct": false
+                },
+                {
+                    "text": "Sultan Vahdettin",
+                    "correct": false
+                },
+                {
+                    "text": "Sultan Bayezıd",
+                    "correct": true
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Aşağıdaki ülkelerden hangisi Afrika kıtasında bulunmaktadır?",
+            "options": [
+                {
+                    "text": "Tanzanya",
+                    "correct": true
+                },
+                {
+                    "text": "Nepal",
+                    "correct": false
+                },
+                {
+                    "text": "Brezilya",
+                    "correct": false
+                },
+                {
+                    "text": "Özbekistan",
+                    "correct": false
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Aşağıdaki kimyasal türler arası etkileşimlerden hangisi güçlü etkileşimler başlığı altında değerlendirilir?",
+            "options": [
+                {
+                    "text": "Kovalent Bağ",
+                    "correct": true
+                },
+                {
+                    "text": "Hidrojen Bağı",
+                    "correct": false
+                },
+                {
+                    "text": "dipol-dipol bağları",
+                    "correct": false
+                },
+                {
+                    "text": "Van Der Walls bağları",
+                    "correct": false
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "1864 yılında yayımlanan Yer Altından Notlar kitabının yazarı kimdir?",
+            "options": [
+                {
+                    "text": "Anton Çehov",
+                    "correct": false
+                },
+                {
+                    "text": "William Shakespeare",
+                    "correct": false
+                },
+                {
+                    "text": "Leo Tolstoy",
+                    "correct": false
+                },
+                {
+                    "text": "Fyodor Dostoevsky",
+                    "correct": true
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "1 takvim yılı kaç dakikadır?",
+            "options": [
+                {
+                    "text": "8766",
+                    "correct": false
+                },
+                {
+                    "text": "525.960",
+                    "correct": true
+                },
+                {
+                    "text": "31.557.600",
+                    "correct": false
+                },
+                {
+                    "text": "32.557.600",
+                    "correct": false
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Türkiye'nin nüfusu en az olan bölgesi hangisidir?",
+            "options": [
+                {
+                    "text": "Karadeniz Bölgesi",
+                    "correct": false
+                },
+                {
+                    "text": "Ege Bölgesi",
+                    "correct": false
+                },
+                {
+                    "text": "Güneydoğu Anadolu Bölgesi",
+                    "correct": false
+                },
+                {
+                    "text": "Doğu Anadolu Bölgesi",
+                    "correct": true
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangisi atletizmde 'dekatlon'da yarışan sporcuların mücadele ettikleri dallardan biri değildir?",
+            "options": [
+                {
+                    "text": "100 metre koşusu",
+                    "correct": false
+                },
+                {
+                    "text": "Cirit atma",
+                    "correct": false
+                },
+                {
+                    "text": "Sırıkla atlama",
+                    "correct": false
+                },
+                {
+                    "text": "Yüzme",
+                    "correct": true
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Azerbaycan bayrağının eşit genişlikteki üç yatay parçasının yukarıdan aşağıya, doğru sıralaması nasıldır?",
+            "options": [
+                {
+                    "text": "Kırmızı, mavi, yeşil",
+                    "correct": false
+                },
+                {
+                    "text": "Mavi, yeşil, kırmızı",
+                    "correct": false
+                },
+                {
+                    "text": "Mavi, kırmızı, yeşil",
+                    "correct": true
+                },
+                {
+                    "text": "Yeşil, kırmızı, mavi",
+                    "correct": false
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Hangisi 15. Yüzyılda gerçekleşmiştir?",
+            "options": [
+                {
+                    "text": "Fransız İhtilali",
+                    "correct": false
+                },
+                {
+                    "text": "Berlin Duvarı'nın yıkılışı",
+                    "correct": false
+                },
+                {
+                    "text": "Malazgirt Savaşı",
+                    "correct": false
+                },
+                {
+                    "text": "Osmanlıların İstanbul'u fethi",
+                    "correct": true
+                }
+            ],
+            "stage": 2
+        },
+        {
+            "text": "Guinness Dünya Rekorlarına göre, 2012'de düzenlenen bir tenis turnuvasında kayıtlara geçen en hızlı servis saatte kaç kilometredir?",
+            "options": [
+                {
+                    "text": "163",
+                    "correct": false
+                },
+                {
+                    "text": "263",
+                    "correct": true
+                },
+                {
+                    "text": "363",
+                    "correct": false
+                },
+                {
+                    "text": "463",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hicri takvime göre hangisi Şaban ayındadır?",
+            "options": [
+                {
+                    "text": "Kadir Gecesi",
+                    "correct": false
+                },
+                {
+                    "text": "Ramazan Bayramı",
+                    "correct": false
+                },
+                {
+                    "text": "Kurban Bayramı",
+                    "correct": false
+                },
+                {
+                    "text": "Berat Kandili",
+                    "correct": true
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Hangisi Ordu'nun coğrafi işaretle tescilli bir ürünü değildir?",
+            "options": [
+                {
+                    "text": "Ordu pidesi",
+                    "correct": false
+                },
+                {
+                    "text": "Ordu tostu",
+                    "correct": false
+                },
+                {
+                    "text": "Ordu kivisi",
+                    "correct": false
+                },
+                {
+                    "text": "Ordu fındığı",
+                    "correct": true
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Aşağıdakilerden hangisi bir Avrupa ülkesi olan Finlandiya'nın başkentidir?",
+            "options": [
+                {
+                    "text": "Stockholm",
+                    "correct": false
+                },
+                {
+                    "text": "Moskova",
+                    "correct": false
+                },
+                {
+                    "text": "Helsinki",
+                    "correct": true
+                },
+                {
+                    "text": "Bükreş",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Olayların kronolojik olarak anlatıldığı bir tarih ders kitabında hangi ünite başlığı diğer üçünden sonraki bir sayfada yer alır?",
+            "options": [
+                {
+                    "text": "Soğuk Savaş Dönemi",
+                    "correct": true
+                },
+                {
+                    "text": "İlk Türk Devletleri",
+                    "correct": false
+                },
+                {
+                    "text": "Kurtuluş Savaşı'nda Cepheler",
+                    "correct": false
+                },
+                {
+                    "text": "Yeni Çağ Avrupa Tarihi",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Aşağıdaki ülkelerden hangisinin bayrağında yeşil beyaz ve turuncu renkleri bulunur?",
+            "options": [
+                {
+                    "text": "İzlanda",
+                    "correct": false
+                },
+                {
+                    "text": "İrlanda",
+                    "correct": true
+                },
+                {
+                    "text": "Kamerun",
+                    "correct": false
+                },
+                {
+                    "text": "Letonya",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "NBA liginin yıldızlarından biri olan Dirk Nowitzki tüm kariyerini hangi takımda geçirmiştir?",
+            "options": [
+                {
+                    "text": "Indiana Pacers",
+                    "correct": false
+                },
+                {
+                    "text": "San Antonio Spurs",
+                    "correct": false
+                },
+                {
+                    "text": "Dallas Mavericks",
+                    "correct": true
+                },
+                {
+                    "text": "Miami Heat",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Aşağıdaki kimyasal bileşiklerden hangisi glikozun formülüdür?",
+            "options": [
+                {
+                    "text": "C₂H₂",
+                    "correct": false
+                },
+                {
+                    "text": "C₆H₁₂O₆",
+                    "correct": true
+                },
+                {
+                    "text": "C₂H₆O",
+                    "correct": false
+                },
+                {
+                    "text": "C₆H₆",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Pusulalarda 'S' harfi hangi yönü temsil eder?",
+            "options": [
+                {
+                    "text": "Sol",
+                    "correct": false
+                },
+                {
+                    "text": "Sağ",
+                    "correct": false
+                },
+                {
+                    "text": "Kuzey",
+                    "correct": false
+                },
+                {
+                    "text": "Güney",
+                    "correct": true
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "Uzantısı 'gov.tr' şeklinde olan resmi internet siteleri genellikle hangisine ait olur?",
+            "options": [
+                {
+                    "text": "Devlet kurumlarına",
+                    "correct": true
+                },
+                {
+                    "text": "Televizyon kanallarına",
+                    "correct": false
+                },
+                {
+                    "text": "Sosyal medya platformlarına",
+                    "correct": false
+                },
+                {
+                    "text": "Üniversitelere",
+                    "correct": false
+                }
+            ],
+            "stage": 3
+        },
+        {
+            "text": "1959'dan günümüze kadarki Süper Lig tarihinde ilk gol hangi futbolcu olmuştur?",
+            "options": [
+                {
+                    "text": "Can Bartu",
+                    "correct": false
+                },
+                {
+                    "text": "Lefter Küçükkandosyandis",
+                    "correct": false
+                },
+                {
+                    "text": "Metin Oktay",
+                    "correct": true
+                },
+                {
+                    "text": "Hakkı Yeten",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Yüz ölçümü olarak en küçük olan hangisidir?",
+            "options": [
+                {
+                    "text": "Avrupa ana karası",
+                    "correct": false
+                },
+                {
+                    "text": "Grönland",
+                    "correct": true
+                },
+                {
+                    "text": "Avustralya kıtası",
+                    "correct": false
+                },
+                {
+                    "text": "Cezayir",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Daire şeklinde standart bir duvar saatinde, saat kaçken akreple yelkovan arasındaki açı 180 derece olur?",
+            "options": [
+                {
+                    "text": "12.30",
+                    "correct": false
+                },
+                {
+                    "text": "15.45",
+                    "correct": false
+                },
+                {
+                    "text": "18.00",
+                    "correct": true
+                },
+                {
+                    "text": "00.00",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangisi sincaba verilen adlardan biridir?",
+            "options": [
+                {
+                    "text": "Çekelez",
+                    "correct": true
+                },
+                {
+                    "text": "Kerkenez",
+                    "correct": false
+                },
+                {
+                    "text": "Sığırcık",
+                    "correct": false
+                },
+                {
+                    "text": "Kukumav",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Osmanlılarda, genel olarak Tanzimat Dönemi'nden Meşrutiyet Dönemi'ne kadar kullanılmış olan 'istanbulin' nedir?",
+            "options": [
+                {
+                    "text": "Bir tür kadın şapkası",
+                    "correct": false
+                },
+                {
+                    "text": "Bir tür erkek ceketi",
+                    "correct": true
+                },
+                {
+                    "text": "Bir tür nefesli çalgı",
+                    "correct": false
+                },
+                {
+                    "text": "Bir tür ateşli silah",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Hangi iki Osmanlı padişahı kardeş değildir?",
+            "options": [
+                {
+                    "text": "II. Mustafa ve III. Ahmed",
+                    "correct": false
+                },
+                {
+                    "text": "V. Mehmed ve V. Murad",
+                    "correct": true
+                },
+                {
+                    "text": "Abdülmecid ve Abdülaziz",
+                    "correct": false
+                },
+                {
+                    "text": "III. Selim ve II. Mahmud",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "4 yanlışın 1 doğruyu götürdüğü 100 soruluk çoktan seçmeli bir sınavda 9 boşu ve 8 yanlışı olan birinin neti kaçtır?",
+            "options": [
+                {
+                    "text": "83",
+                    "correct": false
+                },
+                {
+                    "text": "81",
+                    "correct": true
+                },
+                {
+                    "text": "79",
+                    "correct": false
+                },
+                {
+                    "text": "77",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "1959'dan günümüze kadarki Süper Lig tarihinde, art arda 90 iç saha maçında mağlup olmayarak 'kendi evinde en uzun süre yenilmeyen takım' ünvanını elinde bulunduran hangisidir?",
+            "options": [
+                {
+                    "text": "Trabzonspor",
+                    "correct": true
+                },
+                {
+                    "text": "Fenerbahçe",
+                    "correct": false
+                },
+                {
+                    "text": "Beşiktaş",
+                    "correct": false
+                },
+                {
+                    "text": "Galatasaray",
+                    "correct": false
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "Türkiye'nin en az ilçesi olan ili hangisidir?",
+            "options": [
+                {
+                    "text": "Tokat",
+                    "correct": false
+                },
+                {
+                    "text": "Kırıkkale",
+                    "correct": false
+                },
+                {
+                    "text": "Kilis",
+                    "correct": false
+                },
+                {
+                    "text": "Bayburt",
+                    "correct": true
+                }
+            ],
+            "stage": 4
+        },
+        {
+            "text": "23 Nisan 1920'de açılan TBMM'nin birinci dönem milletvekillerinden hangisi, milletvekili olduğu ille doğru eşleştirilmiştir?",
+            "options": [
+                {
+                    "text": "Kazım Karabekir Paşa, Erzurum",
+                    "correct": false
+                },
+                {
+                    "text": "Mustafa Kemal Paşa, Antep",
+                    "correct": false
+                },
+                {
+                    "text": "Miralay İsmet, Malatya",
+                    "correct": false
+                },
+                {
+                    "text": "Fevzi Paşa, Kozan",
+                    "correct": true
+                }
+            ],
+            "stage": 4
+        }
+    ]
+}

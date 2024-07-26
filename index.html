@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilgi Yarışması</title>
+    <script src="https://kit.fontawesome.com/d0c556b316.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <div class="body">
+        
+        <div class="ust">
+            
+            <img src="assets/462fde74-846e-4e41-87dc-c97eb8d2cee2.jpeg" width="100px" alt="">
+            <h1>BİLGEC.</h1>
+        </div>
+        <div class="altt">
+        <div class="alt">
+            <div class="joker">
+                <i class="fa-solid fa-delete-left" id="delete-joker"></i>
+                <i class="fa-solid fa-shield-halved" id="shield-joker"></i>
+            </div>
+        <div class="soru-bolumu">
+            <div class="soru">
+                <p class="soru-yazi">
+                </p>
+            </div>
+            <div class="siklar">
+                <button class="option" data-correct="" ></button>
+                <button class="option" data-correct="" ></button>
+                <button class="option" data-correct=""></button>
+                <button class="option" data-correct=""></button>
+            </div>
+        </div>
+        <div class="timer-bg" id="timer-bg">
+            <div id="timer"> 90 </div>
+        </div>
+        </div>
+        
+        <div class="sayac">
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+            <div class="kutu"></div>
+        </div>  
+        
+      
+        <div class="sonuc-bolumu" style="display: none;">
+            <div class="texts">
+                <h2>Tebrikler! Yarışmayı tamamladınız.</h2>
+                <h3><span id="final-text"></span></h3>
+                <p>Doğru cevap sayısı: <span id="correct-count"></span></p>
+                <p>Yanlış cevap sayısı: <span id="incorrect-count"></span></p>
+                <button id="restart-button">Yeni Yarışmaya Başla</button>
+            </div>
+        </div> 
+    </div>  
+        
+    </div>
+    <script src="script.js"></script>
+
+</body>
+</html>
