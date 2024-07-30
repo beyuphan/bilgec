@@ -215,6 +215,81 @@ body{
     font-size: 36px;
     transition: transform 1s ease;
     font-weight: 800;
-    user-select: none;
+    user-select: none;   
+}
+
+@media only screen and (max-width: 1200px) {
+    .body{
+        width: 60%;
+  }
+}
+@media only screen and (max-width: 800px) {
+    .body{
+        width: 90%;
+  }
+  .ust{
+    padding-top: 10px;
+}
+
+.ust h1{
+    font-size: 30px;
+    font-weight: 300;
+}
+.altt{
+    flex-direction: column;
+}
+.sayac{
+    margin-top: 20px;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-between;
+    height: 5vh;
+}
+.kutu{
+    width: 5%;
+    height: 25px;
+}
+.ust img{
+    width: 50px;
+}
+.soru-bolumu{
+    width: 90%;
+}
+
+.soru{
+    font-size:calc(1.5rem + .75vw);
+}
+.timer-bg{ 
+    width: 50px;
+    height: 50px;
+}
+#timer{
+    font-size: 18px;
     
+}
+.joker{
+
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 20px;
+}
+.sonuc-bolumu h2 {
+    font-size: 18px;
+}
+.texts{
+    padding: 0 30px;
+    margin-top: 60px;
+    height: 300px;
+    row-gap: 30px;
+}
+.texts h3{
+    font-size:calc(0.75rem + .75vw);
+    font-weight: 400;
+    user-select: none;
+}
+.texts p{
+    font-size: 16px;
+    font-weight: 700;
+}
 }
